@@ -10,13 +10,13 @@ export default createGlobalStyle`
   }
   /* Configurações de Cores */
   body {
-    background: #000;
+    background: #CCF5AC;
     color: #fff;
     -webkit-font-smoothing: antialiased;
   }
   /* Fonte Padrão da aplicação */
   body, input, button {
-    font-family: 'Roboto Mono',serif;
+    font-family: 'Roboto',serif;
     font-size: 16px;
   }
   /* Configuração padrão das tags que são em negrito */
